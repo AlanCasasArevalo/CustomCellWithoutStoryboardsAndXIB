@@ -5,7 +5,7 @@
 > iOS Custom cells without Storyboards and XIB example
 
 ## Preview
-![](https://github.com/AlanCasasArevalo/GoToShopping/blob/master/GoToShopping.gif)
+![](https://github.com/AlanCasasArevalo/CustomCellWithoutStoryboardsAndXIB/blob/master/Picture.png)
 
 ## This simple app is an example
 
